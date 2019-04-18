@@ -1,9 +1,9 @@
 {
 	"private": true,
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"name": "nima-razzle",
 	"bin": {
-    "razzle": "./bin/razzle.js"
+    "nima-razzle": "./bin/razzle.js"
   },
   "bugs": "https://github.com/jaredpalmer/razzle/issues",
   "homepage": "https://github.com/jaredpalmer/razzle#readme",
