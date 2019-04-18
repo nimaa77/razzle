@@ -1,6 +1,7 @@
 {
 	"private": true,
 	"version": "3.0.1",
+	"name": "nima-razzle",
   "bugs": "https://github.com/jaredpalmer/razzle/issues",
   "homepage": "https://github.com/jaredpalmer/razzle#readme",
   "devDependencies": {
